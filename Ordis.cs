@@ -4,7 +4,7 @@ using Vosk;
 
 namespace OrdisVosk;
 
-class Program
+class Ordis
 {
     private static VoskRecognizer? recognizer;
     private static WaveInEvent? waveSource;
@@ -42,8 +42,24 @@ class Program
         waveSource.DataAvailable += OnDataAvailable;
         waveSource.StartRecording();
 
-        Console.WriteLine("Слушаю... Нажми Enter для выхода");
-        Console.ReadLine();
+        Console.WriteLine("Слушаю... Нажми Enter для выхода, нажми tab для настроек");
+        while (true)
+        {
+            if (Console.KeyAvailable)
+            {
+                var key = Console.ReadKey(true);
+                if (key.Key == ConsoleKey.Enter)
+                {
+                    break;
+                }
+                else if (key.Key == ConsoleKey.Tab)
+                {
+                    Settings settings = new Settings();
+                    settings.SettingsMenu();
+                }
+            }
+            Thread.Sleep(100);
+        }
 
         waveSource.StopRecording();
         waveSource.Dispose();

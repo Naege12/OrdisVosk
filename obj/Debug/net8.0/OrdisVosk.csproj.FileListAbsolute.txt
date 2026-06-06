@@ -25,3 +25,4 @@ C:\Users\User\Documents\OrdisVosk\obj\Debug\net8.0\refint\OrdisVosk.dll
 C:\Users\User\Documents\OrdisVosk\obj\Debug\net8.0\OrdisVosk.pdb
 C:\Users\User\Documents\OrdisVosk\obj\Debug\net8.0\OrdisVosk.genruntimeconfig.cache
 C:\Users\User\Documents\OrdisVosk\obj\Debug\net8.0\ref\OrdisVosk.dll
+C:\Users\User\Documents\OrdisVosk\obj\Debug\net8.0\OrdisVosk.sourcelink.json

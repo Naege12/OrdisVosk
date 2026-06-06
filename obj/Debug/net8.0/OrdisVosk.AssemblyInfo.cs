@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdisVosk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d33f97f98171519bf0b329e183bb5ce6c8b9a09")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdisVosk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdisVosk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

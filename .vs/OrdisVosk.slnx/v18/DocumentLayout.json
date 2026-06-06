@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\OrdisVosk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D293EAA-2A49-4F80-AEFE-C3583EFB2453}|OrdisVosk.csproj|c:\\users\\user\\documents\\ordisvosk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D293EAA-2A49-4F80-AEFE-C3583EFB2453}|OrdisVosk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|c:\\users\\user\\documents\\ordisvosk\\ordis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|solutionrelative:ordis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|c:\\users\\user\\documents\\ordisvosk\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|c:\\users\\user\\documents\\ordisvosk\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBFD39F-5217-15E6-4E5F-FC0262D97AB6}|OrdisVosk.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\OrdisVosk\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\OrdisVosk\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:08:56.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\OrdisVosk\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\OrdisVosk\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T15:07:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\OrdisVosk\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\OrdisVosk\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEMAAAAyAAAAAAAAAA==",
+              "Title": "Ordis.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\OrdisVosk\\Ordis.cs",
+              "RelativeDocumentMoniker": "Ordis.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\OrdisVosk\\Ordis.cs",
+              "RelativeToolTip": "Ordis.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T20:52:09.032Z",
               "EditorCaption": ""
